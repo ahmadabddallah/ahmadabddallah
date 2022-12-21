@@ -1,6 +1,6 @@
 - #                         👋 Hi, I’m @ahmadabddallah
 - 👨🏻‍🎓 I'm Computer Engineer with B.Sc From Faculty of Engineering at Suez Canal University.
-- 👀 I’m interested in Problems Solving with powerful background in Algortihms and Data Structure 
+- 👀 I’m interested in Problem Solving with powerful background in Algortihms and Data Structure 
 - 🌱 I’m currently learning Embedded Systems and Microcontroller 
 - 📫 How to reach me ahmadabddallah@gmail.com or https://www.linkedin.com/in/ahmadabddallah/
 
